@@ -13,8 +13,12 @@
 
         Dim modvar As Integer
 
+    End Sub
+
+    Public Sub Test()
 
 
     End Sub
+
 
 End Module
