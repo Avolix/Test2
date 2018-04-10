@@ -1,5 +1,5 @@
 ﻿Module Module1
-
+    Dim modvar As Integer
     Sub Main()
 
         Dim testvar As Decimal
@@ -11,11 +11,17 @@
         Console.ReadKey()
 
 
-        Dim modvar As Integer
+
 
     End Sub
 
     Public Sub Test()
+
+        Console.Write("This is more testing")
+        modvar = Console.ReadKey()
+
+
+
 
 
     End Sub
