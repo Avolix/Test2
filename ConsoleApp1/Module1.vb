@@ -11,6 +11,7 @@
         Console.ReadKey()
 
 
+        Dim modvar As Integer
 
 
 
